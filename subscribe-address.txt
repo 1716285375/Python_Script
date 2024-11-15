@@ -6,3 +6,6 @@ https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=9146d6e6bef18dfdf
 
 
 https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=9146d6e6bef18dfdf15f40e5f3dc22a4
+
+
+https://api.suda-cdn.com/sub?target=clash&url=https://stardomusic001.sslcdnapp.net/link/D9pznUZIbaBDgsgB?clash=2
